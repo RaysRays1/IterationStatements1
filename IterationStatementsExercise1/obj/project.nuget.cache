@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8MyRuE18teoYsX9I6v8j9NjZ3mb3i+E8U2YOUE2Cyk2XG9fosZdfO7NzQ1Syh1UFBefEypiaB2SoFtSdDQggw==",
+  "success": true,
+  "projectFilePath": "/Users/raynardbrown/Desktop/repos/IterationStatementsExercise1/IterationStatementsExercise1/IterationStatementsExercise1.csproj",
+  "expectedPackageFiles": [
+    "/Users/raynardbrown/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/raynardbrown/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/raynardbrown/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
